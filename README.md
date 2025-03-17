@@ -33,5 +33,5 @@ AdaptLearn is a learning platform powered by artificial intelligence that genera
 - **Alejandro Blanco**
 - **Raul**
 
-💡 *Thank you for trying AdaptLearn!* 🧠✨
+💡 *Thank you for trying AdaptLearn!*  🧠✨
 
