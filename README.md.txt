@@ -1,6 +1,6 @@
 # Plataforma de Aprendizaje
 
-Esta es una plataforma de aprendizaje impulsada por inteligencia artificial que genera ejercicios en matemáticas, lenguaje y ciencias.
+#Esta es una plataforma de aprendizaje impulsada por inteligencia artificial que genera ejercicios en matemáticas, lenguaje y ciencias.
 
 
 ## Cómo Usar
